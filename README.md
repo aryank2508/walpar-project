@@ -1,0 +1,2 @@
+# walpar-project
+walpar django
